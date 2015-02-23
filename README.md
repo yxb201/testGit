@@ -1,4 +1,3 @@
-# testGit
-# this is a test repository
-# testGit
-# testGit2
+# this is a test git project
+# test 
+# test
